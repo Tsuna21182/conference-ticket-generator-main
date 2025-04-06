@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+
+  --color-Neutral0: #ffffff;
+  --color-Neutral300: #d2d1d6;
+  --color-Neutral500: #8784a4;
+  --color-Neutral700: #4b486a;
+  --color-Neutral900: #0c082b;
+
+  --color-Orange500: #f57261;
+  --color-Orange700: #e16151;
+
+  --color-Primero: #f37362; /* combinar con el neutral0 */
+
+  /* font */
+
+  --font-display: "Inconsolata", monospace;
+}
